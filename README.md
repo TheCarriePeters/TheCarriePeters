@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @carriepeters
-- 👀 I’m interested in Data Science: Analytics, Statistics, and Machine Learning
+- 👀 I’m interested in Data Science, Analytics, Statistics, and Machine Learning for Automation
 - 🌱 I’m currently learning Data Analytics
-- 💞️ I’m looking to collaborate on Data Analysis projects
-- 📫 Twitter DM: @theCarriePeters
+- 💞️ I’m looking to collaborate on projects involving data or web design
+- 📫 Email: theCarriePeters@gmail.com | Twitter DM: @theCarriePeters
 
 <!---
 carriepeters/carriepeters is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
