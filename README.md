@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @carriepeters
-- 👀 I’m interested in Data Science, Analytics, Statistics, and Machine Learning
+- 👀 I’m interested in Data Science, Analytics, Machine Learning, and Web Design
 - 🌱 I’m currently learning Data Analytics
 - 💞️ I’m looking to collaborate on projects involving data or web design
 - 📫 Find me @ thecarriepeters.com
