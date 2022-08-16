@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @carriepeters
-- 👀 I’m interested in Graphic & Web Design, Front-End Development, & Data Science
+- 👀 I’m interested in Graphic Design, Front-End Development, & Data Science
 - 🌱 I'm currently studying Data Analytics
 
 <!---
