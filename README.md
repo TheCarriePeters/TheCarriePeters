@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @carrieasis
-- 👀 I’m interested in Graphic Design, Front-End Development, & Data Science
-- 🌱 I'm currently studying Data Analytics, but I'm also working on Web Design & Development
+- 👋 Hi, I’m @CareCummings
+- 👀 I’m interested in Web Development
+- 🌱 I'm currently learning React & JS
 - 💞️ I’m looking to collaborate on projects with and for digital creators
-- 📫 DM @carrieasis on Twitter
+- 📫 DM @care_cummings on Twitter
 
 <!---
 carriepeters/carriepeters is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
